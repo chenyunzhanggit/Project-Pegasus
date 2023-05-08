@@ -1,0 +1,12 @@
+float32 leg1_hip_angle
+float32 leg1_hu_angle
+float32 leg1_hl_angle
+float32 leg2_hip_angle
+float32 leg2_hu_angle
+float32 leg2_hl_angle
+float32 leg3_hip_angle
+float32 leg3_hu_angle
+float32 leg3_hl_angle
+float32 leg4_hip_angle
+float32 leg4_hu_angle
+float32 leg4_hl_angle
